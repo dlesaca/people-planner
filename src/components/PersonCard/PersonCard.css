@@ -1,0 +1,28 @@
+/* Card styles */
+.person-card {
+  width: 100%;
+  padding: 2rem;
+  border-radius: 2px;
+  box-shadow: 0 1px 1px #cfcfcf;
+  background-color: #fff; }
+
+.person-card__name {
+  margin: .25em 0;
+  font-size: 1.25em; }
+
+.person-card__age {
+  font-size: 0.875em; }
+
+.person-card__person {
+  padding-bottom: 1.5em;
+  display: flex; }
+
+.person-card__contact-info {
+  font-size: 0.875em;
+  display: grid;
+  grid-template-columns: 1em auto;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em; }
+
+.phone-numbers__number {
+  margin-bottom: 1em; }

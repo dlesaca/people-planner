@@ -1,0 +1,4 @@
+.search-results {
+  display: flex; }
+  .search-results .person-card {
+    margin-right: 1em; }

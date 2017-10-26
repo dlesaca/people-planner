@@ -1,0 +1,18 @@
+.circular {
+  width: 5em;
+  height: 5em;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  img {
+    width: auto;
+    height: 100%;
+    margin-left: -25%;
+  }
+}
+
+.right-margin {
+  margin-right: .5em;
+}

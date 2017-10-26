@@ -1,0 +1,39 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #818181;
+  background-color: #eee;
+}
+
+main {
+  display: flex;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a, 
+a:active {
+  color: #4067bf;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #24458f;
+}
+
+address {
+  font-style: normal;
+}
+
+span[class*="ion-"] {
+  line-height: 1;
+  color: #818181;
+  font-size: 1.25em;
+}
