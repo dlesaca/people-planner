@@ -1,9 +1,9 @@
 # People Planner App
 
-1. Build CSS:
+1. Install packages
 
 ```
-npm run build-css
+npm install
 ```
 
 2. Run App (Development Mode):
@@ -15,4 +15,10 @@ npm start
 
 ```
 http://localhost:3000/
+```
+
+# Building the CSS:
+
+```
+npm run build-css
 ```
